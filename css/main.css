@@ -97,7 +97,7 @@ textarea {
 
 
 html {
-  background-color: #f16059;
+  background-color: #885890;
   height: 100%;
 }
 
@@ -118,22 +118,20 @@ main {
 }
 
 header {
-    background: blue;
-    padding: 0.5em 0;
+    padding-top: 0.5em;
     font-size: 3em;
     font-family: 'Croissant One', script;
 }
 
 main {
-    background: slategray;
     border-bottom: 1px solid white;
-    padding: 1em 0;
+    padding: 1.2em 0;
     font-size: 1.5em;
 }
 
 footer {
     border-top: 1px solid white;
-    padding: 1em 0;
+    padding: 2em 0;
 }
 
 .wrapper {
@@ -159,7 +157,7 @@ footer {
 div {
     color: #fff;
     line-height: 1.5em;
-    background-color: #f16059;
+    background-color: #885890;
     height: 200px;
     width: 30%;
     display: flex;
